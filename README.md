@@ -1,4 +1,5 @@
 👋 Hi, I'm Mohit Kumar Kori
+
 🎓 Electronics & Instrumentation Engineering student  
 🤖 Passionate about robotics, embedded systems & automation  
 💻 Python | Arduino | MATLAB | Flutter  
